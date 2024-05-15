@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(152, 170, 222);
+}
+canvas{
+    border: 4px solid whitesmoke;
+    background-color: rgb(152, 170, 222);
+    margin: 0 auto;
+    display: block;
+    border-bottom: transparent;
+}
+#vidas{
+    margin-top: 100px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: aliceblue;
+}
+#score{
+    margin-top: 100px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: aliceblue;
+}
+#level{
+    margin-top: 100px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: aliceblue;
+}
